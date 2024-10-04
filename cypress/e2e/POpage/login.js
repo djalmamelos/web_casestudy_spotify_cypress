@@ -1,10 +1,4 @@
 
-
-require("dotenv").config({path:'../../../.env'});
-
-
-
-
 export class LoginPage {
 
 
