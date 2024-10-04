@@ -44,7 +44,7 @@ Cypress Case Study/
 ```
 
 - **e2e/**: Contém todos os arquivos relacionados ao Cypress, incluindo testes, plugins e suporte.
-- **POpage/**: Contém os Page Objects relaconado aos testes, emn Login.js adicione suas credenciais do Spotify, para assim o teste funcionar.
+- **POpage/**: Contém os Page Objects relaconado aos testes, em Login.js adicione suas credenciais do Spotify, username e password,  para assim o teste funcionar.
 ## Como Executar os Testes ▶️
 
 Para executar todos os testes, use o seguinte comando no diretório raiz do projeto:
